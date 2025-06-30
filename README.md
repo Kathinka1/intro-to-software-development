@@ -1,6 +1,6 @@
 # Introduction to Software Development, Git and Python
 
-## Agenda
+## Agenda for day 1
 
 Day 1
 
